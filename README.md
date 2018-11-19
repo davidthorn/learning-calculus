@@ -1,4 +1,4 @@
-#Learning Calculus
+# Learning Calculus
 
 In order to learn calculus I decided to make this repo so as to save and document all of the work which I have done.
 
