@@ -38,3 +38,28 @@ It seems that it may be worth while reading through this document to understand 
 * Slope equals rise over run
 * Area of a triangle equals one-half base times height
 * The Pythagoreans theorem: a²+ b² = c²
+
+# Pre-Algebra and Algebra Review
+
+The deominator of a fraction can never equal zero.
+
+```
+0/5 equals to zero, but 5/0 is undefined
+```
+The ```reciprocal```of a number od expression is it multiplicative inverse -- whic is a fancy way of sayig that the prdocut of somethins is reciprocal is 1.
+
+To get the reciprocal of a fraction, flip it upside down. Thus, the reciprocal of ```3/4 is 4/3```, the reciprocal of ```6```, which equals ```6/1```, is ```1/6,``` and the reciprocal of ```x - 2 ```is ```1/x-2```.
+
+### Power Rule
+
+>x<sup>0</sup> = 1
+
+This it the rule regardless of what ```x``` equals -- a fraction, a negative, anything -- except for zero (zero raised to the zero power is ```undefined```)
+
+>x<sup>0</sup> = 1
+
+>0<sup>0</sup> = undefined
+
+
+
+
