@@ -25,3 +25,9 @@ Differentiation is the process of finding a derivative, and the derivative of a 
 ## Integration
 
 Integration is the second big idea in calculus, and is basically just fancy addition. Integration is the process of cutting up an area into tiny sections, figuring the areas of the small sections, and then adding up the little bits of area to get the whole area.
+
+### Yeno's Paradoxes
+
+It seems that it may be worth while reading through this document to understand things a bit further.
+
+[Zeno's Paradoxes](https://plato.stanford.edu/entries/paradox-zeno/#ParPlu)
