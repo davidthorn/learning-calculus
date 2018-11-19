@@ -50,6 +50,26 @@ The ```reciprocal```of a number od expression is it multiplicative inverse -- wh
 
 To get the reciprocal of a fraction, flip it upside down. Thus, the reciprocal of ```3/4 is 4/3```, the reciprocal of ```6```, which equals ```6/1```, is ```1/6,``` and the reciprocal of ```x - 2 ```is ```1/x-2```.
 
+### Polynominal
+
+In mathematics, a polynomial is an expression consisting of variables (also called indeterminates) and coefficients, that involves only the operations of addition, subtraction, multiplication, and non-negative integer exponents of variables. An example of a polynomial of a single indeterminate, x, is x2 − 4x + 7. An example in three variables is x3 + 2xyz2 − yz + 1.
+
+Polynomials appear in many areas of mathematics and science. For example, they are used to form polynomial equations, which encode a wide range of problems, from elementary word problems to complicated problems in the sciences; they are used to define polynomial functions, which appear in settings ranging from basic chemistry and physics to economics and social science; they are used in calculus and numerical analysis to approximate other functions. In advanced mathematics, polynomials are used to construct polynomial rings and algebraic varieties, central concepts in algebra and algebraic geometry.
+
+Reference: [Wikipedia - Polynomial](https://en.wikipedia.org/wiki/Polynomial)
+
+### Coefficient
+
+In mathematics, a coefficient is a multiplicative factor in some term of a polynomial, a series, or any expression; it is usually a number, but may be any expression. In the latter case, the variables appearing in the coefficients are often called parameters, and must be clearly distinguished from the other variables.
+
+For example, in
+
+> 7<sub>x</sub><sup>2</sup> - 3<sub>x</sub><sub>y</sub> + 1.5 + y
+
+See more ...
+
+Reference: [Wikipedia - Coefficient](https://en.wikipedia.org/wiki/Coefficient)
+
 ### Power Rule
 
 >x<sup>0</sup> = 1
