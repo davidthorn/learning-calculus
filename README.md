@@ -12,5 +12,10 @@ Calculus is that the mathematics of change.
 
 # Real world examples calculus
 
-* You can calculate the area of the flat roof of a home with regular math.
-* With calculus you can compute the area of a complicated, nonspherical shape like the dome of a building.
+You can calculate the area of the flat roof of a home with regular math.
+
+With calculus you can compute the area of a complicated, nonspherical shape like the dome of a building.
+
+# Diferentiation and Integration
+
+Differentiation is the process of finding a derivative, and the derivative of a curve is just the fancy calculus term for the curve's slope of steepness; the slope of a curve is also a simple rate like miles per hour or profit per item.
