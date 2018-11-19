@@ -60,6 +60,20 @@ This it the rule regardless of what ```x``` equals -- a fraction, a negative, an
 
 >0<sup>0</sup> = undefined
 
+#### Examples
 
+>x<sup>-3</sup> = 1&frasl;x<sup>3</sup>
+
+>x<sup>-a</sup> = 1&frasl;x<sup>a</sup>
+
+
+>4<sup>-2</sup> = 1&frasl;4<sup>2</sup> =  1&frasl;16 
+
+This part definitely needs more working on and possibly a seperate repo to learn more.
+
+[Learning more about Power Rule in Algebra](https://github.com/davidthorn/power-rule)
+
+
+### Square Roots
 
 
