@@ -31,3 +31,10 @@ Integration is the second big idea in calculus, and is basically just fancy addi
 It seems that it may be worth while reading through this document to understand things a bit further.
 
 [Zeno's Paradoxes](https://plato.stanford.edu/entries/paradox-zeno/#ParPlu)
+
+# Why Calculus Works
+
+* Using limits to zoom in on curves
+* Slope equals rise over run
+* Area of a triangle equals one-half base times height
+* The Pythagoreans theorem: a²+ b² = c²
